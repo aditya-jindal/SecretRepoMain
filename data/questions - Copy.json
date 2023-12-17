@@ -177,7 +177,7 @@
     {
       "question": "https://i.postimg.cc/GtzmMn5s/UG-Q-30.jpg",
       "options": ["B and C", "B and D", "C and D", "A and D"],
-      "correctOption": 3,
+      "correctOption": 2,
       "points": 1
     },
     {
@@ -273,7 +273,7 @@
     {
       "question": "https://i.postimg.cc/VNj1GcSL/UG-Q-46.jpg",
       "options": ["A and C", "Only B", "A, B and C", "B, C and D"],
-      "correctOption": 0,
+      "correctOption": 2,
       "points": 1
     },
     {
